@@ -4,7 +4,7 @@ public class duplicatesinarray {
 	
 	public static void main(String args[]) {
 		
-		int a[]= {100,200,200,400,400};
+		int a[]= {100,200,200,400,400,500,500};
 		boolean flag=false;
 		
 		for(int i=0;i<a.length;i++) {
